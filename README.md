@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-![NikolasGialitsis Github Stats] (https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
+![NikolasGialitsis Github Stats](https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
 
 
 ## Stargazers
