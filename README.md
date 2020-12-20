@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on *Citation Networks*
 - 🌱 I’m currently learning about *Similarity Learning* and *VIM customization*
-- 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="25" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>.
+- 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="20" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>
 
 
 
