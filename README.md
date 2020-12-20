@@ -27,8 +27,8 @@
 - 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="20" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>
 
 
-
 ![NikolasGialitsis Github Stats](https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
+![NikolasGialitsis Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NikolasGialitsis&show_icons=true&theme=radical)
 
 
 ## Stargazers
