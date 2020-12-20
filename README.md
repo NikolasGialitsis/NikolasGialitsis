@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+## Stargazers
+
+[![Stargazers repo roster for @NikolasGialitsis/NikolasGialitsis](https://reporoster.com/stars/NikolasGialitsis/NikolasGialitsis)](https://github.com/NikolasGialitsis/NikolasGialitsis/stargazers)
+
