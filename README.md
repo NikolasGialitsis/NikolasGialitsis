@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
+# [![waylon walker header](https://raw.githubusercontent.com/NikolasGialitsis/NikolasGialitsis/main/icon/mybanner.png)](https://www.linkedin.com/in/nikolasgialitsis/)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
