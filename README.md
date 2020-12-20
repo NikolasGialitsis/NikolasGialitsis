@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/NikolasGialitsis/NikolasGialitsis/mybanner.png)](https://www.linkedin.com/in/nikolasgialitsis/)
+# [![waylon walker header](https://raw.githubusercontent.com/NikolasGialitsis/NikolasGialitsis/mybanner.jpg)](https://www.linkedin.com/in/nikolasgialitsis/)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
