@@ -5,6 +5,7 @@
 </p>
 
 <p align='center'>
+<a href="https://www.linkedin.com/in/nikolasgialitsis//"><img height="30" src="https://github.com/NikolasGialitsis/NikolasGialitsis/blob/main/researchgate.png?raw=true"></a>
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nikolasgialitsis//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
