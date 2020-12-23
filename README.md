@@ -21,7 +21,7 @@
 <!--
 **NikolasGialitsis/NikolasGialitsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[[!Check out my daily Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper)]
+[![Check out my daily Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper)]
 
 - 🔭 I’m currently working on *Citation Networks*
 - 🌱 I’m currently learning about *Similarity & Metric Space Learning* and *VIM customization*
