@@ -4,6 +4,7 @@
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
 
+
 <p align='center'>
 <a href="https://www.researchgate.net/profile/Nikolaos_Gialitsis//"><img height="30" src="https://github.com/NikolasGialitsis/NikolasGialitsis/blob/main/researchgate.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=8ZrzZ2wAAAAJ&hl=el//"><img height="30" src="https://github.com/NikolasGialitsis/NikolasGialitsis/blob/main/google scholar.png?raw=true"></a>&nbsp;&nbsp;
@@ -20,7 +21,7 @@
 <!--
 **NikolasGialitsis/NikolasGialitsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+[[!Check out my daily Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper)]
 
 - 🔭 I’m currently working on *Citation Networks*
 - 🌱 I’m currently learning about *Similarity & Metric Space Learning* and *VIM customization*
