@@ -24,7 +24,7 @@
 [Check out my latest free-time project/A Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper)
 
 - 🔭 I’m currently working on *Heterogenous Graphs, Topic Modelling and Website Development*
-- 🌱 I’m currently learning about *Laravel* and *Graphical Generative Models*
+- 🌱 I’m currently learning about *Vue.js* and *Non-metric Similarity Search*
 - 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="20" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>
 
 
