@@ -23,8 +23,8 @@
 -->
 
 Featured Projects
-- [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
-- [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
+* [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
+* [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
 
 <!-- [Check out my latest free-time project/A Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper) -->
 
