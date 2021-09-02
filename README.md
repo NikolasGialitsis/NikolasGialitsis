@@ -23,8 +23,6 @@
 -->
 
 
-* [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
-* [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
 
 <!-- [Check out my latest free-time project/A Machine Learning Newspaper!](https://github.com/NikolasGialitsis/ML_NewsPaper) -->
 
@@ -32,6 +30,9 @@
 - 🌱 I’m currently learning about *Vue.js* and *Non-metric Similarity Search*
 - 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="20" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>
 
+Featured Projects
+* [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
+* [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
 
 ![NikolasGialitsis Github Stats](https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
 ![NikolasGialitsis Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NikolasGialitsis&show_icons=true&theme=radical)
