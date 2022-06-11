@@ -31,7 +31,7 @@
 - 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr">CogniHub</a>
 
 Featured Projects
-* [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
+* [Dianoia-Marketplace| A Web application for patients with incipient Dementia and their carers](https://github.com/NikolasGialitsis/Dianoia-Marketplace)
 * [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
 
 ![NikolasGialitsis Github Stats](https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
