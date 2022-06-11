@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on *Heterogenous Graphs, Semi-Supervised Topic Modeling, and Fullstack WebDev*
 - 🌱 I’m currently learning about *Vue.js* and *Non-metric Similarity Search*
-- 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"><img height="20" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-whitelogo.png?raw=true"></a>
+- 👯 If you are a greek student interested in cognitive sciences and/or promoting interdisciplinarity check out <a href="https://www.cognihub.gr"></a>
 
 Featured Projects
 * [Talk-And-Play-Marketplace| A Web application for crowdsourcing content for the Talk And Play app.](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
