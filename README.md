@@ -10,7 +10,7 @@
 <a href="https://scholar.google.com/citations?user=8ZrzZ2wAAAAJ&hl=el//"><img height="30" src="https://github.com/NikolasGialitsis/NikolasGialitsis/blob/main/google scholar.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nikolasgialitsis//"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> &nbsp;&nbsp;
-<a href="https://www.cognihub.gr"><img height="30" src="https://www.cognihub.gr/wp-content/uploads/2020/11/cropped-square-light-logo-1-2.png?raw=true"></a>
+<a href="https://www.cognihub.gr"><img height="30" src="https://cognihub.gr/static/media/logo.d076b478.png"></a>
 </p>
 
 
