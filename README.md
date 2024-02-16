@@ -29,7 +29,7 @@
  -->
 Featured Projects
 * [Dianoia-Marketplace| A Web application for patients with incipient Dementia and their carers](https://github.com/NikolasGialitsis/Dianoia-Marketplace)
-* [NGramGraphParallel (fork)| C-C++ Wrapper for Indexing N-Gram Graphs](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
+* [Talk & Play Marketplace | A Web application for crowdsourcing content for the Talk And Play app](https://github.com/NikolasGialitsis/Talk-And-Play-Marketplace)
 
 ![NikolasGialitsis Github Stats](https://github-readme-stats.vercel.app/api?username=NikolasGialitsis&show_icons=true&theme=radical)
 ![NikolasGialitsis Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NikolasGialitsis&show_icons=true&theme=radical)
